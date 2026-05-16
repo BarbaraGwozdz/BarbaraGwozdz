@@ -20,11 +20,11 @@ Zapraszam na moją stronę internetową, gdzie szczegółowo opisuję moje case 
 Poniżej technologie i programy, z którymi pracuję na co dzień przy projektowaniu L&D i analizie danych:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Power_BI-FADADD?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-FADADD?style=for-the-badge&logo=microsoft-excel&logoColor=black" alt="Excel" />
+  <img src="https://img.shields.io/badge/Notion-FADADD?style=for-the-badge&logo=notion&logoColor=black" alt="Notion" />
+  <img src="https://img.shields.io/badge/Canva-FADADD?style=for-the-badge&logo=Canva&logoColor=black" alt="Canva" />
+  <img src="https://img.shields.io/badge/ChatGPT-FADADD?style=for-the-badge&logo=openai&logoColor=black" alt="ChatGPT" />
 </p>
 
 ## 📫 Jak się ze mną skontaktować?
@@ -38,5 +38,5 @@ Szukam możliwości stażowych i projektowych w obszarze HR, L&D lub People Anal
 ## 📈 Moje statystyki
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BarbaraGwozdz&show_icons=true&theme=tokyonight&hide_border=true" alt="Statystyki GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BarbaraGwozdz&show_icons=true&bg_color=FFF0F5&title_color=FF69B4&text_color=555555&icon_color=FF1493&border_color=FFB6C1" alt="Statystyki GitHub" />
 </p>
